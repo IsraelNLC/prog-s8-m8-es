@@ -147,5 +147,5 @@ O ataque de espionagem envolve interceptar e ler mensagens MQTT enviadas entre c
 - *Recomendações:* Implementação de TLS/SSL para criptografia, autenticação forte, rate limiting e monitoramento contínuo.
 
 ## Anexos
-- [Scripts utilizados]("./scripts")
+- [Scripts utilizados]("/scripts")
 - Capturas de tela
